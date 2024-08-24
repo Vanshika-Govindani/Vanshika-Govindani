@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vanshika-Govindani
 - 👀 I’m interested in exploring technologies
-- 🌱 I’m currently have a knowledge of C++ and flutter
+- 🌱 I’m currently have a knowledge of C++, HTML, CSS, Javascript and flutter
 
 
 <!---
